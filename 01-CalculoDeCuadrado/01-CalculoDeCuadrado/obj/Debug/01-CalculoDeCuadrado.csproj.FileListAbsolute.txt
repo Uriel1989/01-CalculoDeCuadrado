@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\01-CalculoDeCuadrado\01-CalculoDeCuadrado\bin\Debug\01-CalculoDeCuadrado.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\01-CalculoDeCuadrado\01-CalculoDeCuadrado\bin\Debug\01-CalculoDeCuadrado.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\01-CalculoDeCuadrado\01-CalculoDeCuadrado\obj\Debug\01-CalculoDeCuadrado.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\01-CalculoDeCuadrado\01-CalculoDeCuadrado\obj\Debug\01-CalculoDeCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\01-CalculoDeCuadrado\01-CalculoDeCuadrado\obj\Debug\01-CalculoDeCuadrado.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\01-CalculoDeCuadrado\01-CalculoDeCuadrado\obj\Debug\01-CalculoDeCuadrado.pdb
